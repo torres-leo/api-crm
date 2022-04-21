@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Leito",
+      "empresa": "NombreEmpresa",
+      "email": "leo@leo.com",
+      "telefono": "98327492",
+      "notas": "Nuevo Cliente",
+      "id": 1
+    },
+    {
+      "nombre": "Kathryn",
+      "empresa": "NombreEmpresa2",
+      "email": "kathryn@kathryn.com",
+      "telefono": "78236498",
+      "notas": "Otro Cliente",
+      "id": 2
+    },
+    {
+      "nombre": "Diego",
+      "empresa": "Dieguito SA",
+      "email": "diego@diego.com",
+      "telefono": "",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
